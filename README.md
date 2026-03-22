@@ -16,25 +16,25 @@
 [![](https://img.shields.io/badge/@acrthurr_-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/acrthurr_/)
  
 ### Main skills:
-![Python](https://img.shields.io/badge/-Python-FEF5A0?style=plastic&logo=python&LogoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css&LogoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=plastic&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FEF5A0?style=flat-square&logo=python&LogoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css&LogoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
  
 ### Tools:
-![PyCharm](https://img.shields.io/badge/-PyCharm-000001?style=plastic&logo=pycharm&logoColor=&Color=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000001?style=plastic&logo=&logoColor=black&Color=white)
-![Atom](https://img.shields.io/badge/-Atom-6B642A?style=plastic&logo=atom&logoColor=90ee90&Color=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic&logo=git&logoColor=%23ffffff)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000001?style=flat-square&logo=pycharm&logoColor=&Color=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000001?style=flat-square&logo=&logoColor=black&Color=white)
+![Atom](https://img.shields.io/badge/-Atom-6B642A?style=flat-square&logo=atom&logoColor=90ee90&Color=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 
  
 
   
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-FEF5A0?style=plastic&logo=python&LogoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FEF5A0?style=flat-square&logo=python&LogoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
 <!-- <div align="center">
