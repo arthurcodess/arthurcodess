@@ -13,12 +13,12 @@
 
 
 <div align="center">  
-<a href="https://www.instagram.com/acrthurr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/acrthurr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:
-![Python](https://img.shields.io/badge/-Python-38B2AC?style=plastic&logo=python&LogoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql&LogoColor=white)
+![Python](https://img.shields.io/badge/-Python-FEF5A0?style=plastic&logo=python&LogoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css&LogoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=plastic&logo=html5&logoColor=white)
  
@@ -27,14 +27,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=plastic&logo=&logoColor=black&Color=white)
 ![Atom](https://img.shields.io/badge/-Atom-0D1117?style=plastic&logo=atom&logoColor=90ee90&Color=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&Color=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&LogoColor=white)
+[![](https://img.shields.io/badge/@arthurcodess-100000?style=plastic&logo=github&logoColor=white)](https://github.com/arthurcodess)
 
  
 
   
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&Color=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-FEF5A0?style=plastic&logo=python&LogoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
 
 <!-- <div align="center">
