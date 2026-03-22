@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-FEF5A0?style=flat-square&logo=python&LogoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=flask&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css&LogoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
  
