@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f3e1b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B642A&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d1fbcb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Arthur;I+am+a+Systems+Analysis+and+Development+Student+;Be+Welcome!+:%29)](https://git.io/typing-svg) 
@@ -13,29 +13,28 @@
 
 
 <div align="center">  
-<a href="https://www.instagram.com/acrthurr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/acrthurr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=&textColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-Python-38B2AC?style=plastic&logo=python&LogoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql&LogoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css&LogoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=plastic&logo=html5&logoColor=white)
  
 ### Tools:
-![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=plastic&logo=pycharm&logoColor=&Color=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=plastic&logo=&logoColor=black&Color=white)
+![Atom](https://img.shields.io/badge/-Atom-0D1117?style=plastic&logo=atom&logoColor=90ee90&Color=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&Color=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&LogoColor=white)
+
  
 
   
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&Color=0D1117)&nbsp;
 
 
 <!-- <div align="center">
@@ -44,5 +43,5 @@
 <br></div> -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f3e1b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B642A&height=120&section=footer"/>
 
